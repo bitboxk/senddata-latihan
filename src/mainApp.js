@@ -9,7 +9,7 @@ TouchableOpacity,
 View
 } from  'react-native'; 
 
-var url = 'http://mhs.rey1024.com/1415051094/adduser.php'; 
+var url = 'http://mhs.rey1024.com/1415051034/adduser.php'; 
   
 class mainApp extends Component { 
 constructor(props) {
