@@ -7,6 +7,6 @@ Hasil aplikasi :
 </p>
 Hasil Perubahan Database :
 <p align="center">
-  <img src="/src/db-1.png" width="350"/>
-  <img src="/src/db-2.png" width="350"/>
+  <img src="/src/db-1.PNG" width="350"/>
+  <img src="/src/db-2.PNG" width="350"/>
 </p>
